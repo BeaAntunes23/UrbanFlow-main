@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "opendata.porto.digital",
+    "endpoint": "https://opendata.porto.digital/api/3/action/package_search?q=gtfs",
+    "ok": true,
+    "dataset_count": 2,
+    "zip_urls": [],
+    "error": null
+  },
+  {
+    "domain": "opendata.cm-coimbra.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://opendata.cm-coimbra.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://opendata.cm-coimbra.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "opendata.cm-aveiro.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://opendata.cm-aveiro.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://opendata.cm-aveiro.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "opendata.cm-leiria.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://opendata.cm-leiria.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://opendata.cm-leiria.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "opendata.cm-viseu.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://opendata.cm-viseu.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://opendata.cm-viseu.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "opendata.cm-viana-castelo.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://opendata.cm-viana-castelo.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://opendata.cm-viana-castelo.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "opendata.cm-evora.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://opendata.cm-evora.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://opendata.cm-evora.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "opendata.cm-beja.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://opendata.cm-beja.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://opendata.cm-beja.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "opendata.cm-faro.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://opendata.cm-faro.pt/api/3/action/package_search?q=gtfs: <urlopen error timed out> | https://opendata.cm-faro.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error timed out>"
+  },
+  {
+    "domain": "opendata.cm-guarda.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://opendata.cm-guarda.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://opendata.cm-guarda.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "dadosabertos.cm-aveiro.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://dadosabertos.cm-aveiro.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://dadosabertos.cm-aveiro.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "dadosabertos.cm-leiria.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://dadosabertos.cm-leiria.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://dadosabertos.cm-leiria.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "dadosabertos.cm-viseu.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://dadosabertos.cm-viseu.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://dadosabertos.cm-viseu.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "dadosabertos.cm-faro.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://dadosabertos.cm-faro.pt/api/3/action/package_search?q=gtfs: <urlopen error timed out> | https://dadosabertos.cm-faro.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error timed out>"
+  },
+  {
+    "domain": "dadosabertos.cm-evora.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://dadosabertos.cm-evora.pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed> | https://dadosabertos.cm-evora.pt/pt/api/3/action/package_search?q=gtfs: <urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "domain": "dados.gov.pt",
+    "endpoint": null,
+    "ok": false,
+    "dataset_count": 0,
+    "zip_urls": [],
+    "error": "https://dados.gov.pt/api/3/action/package_search?q=gtfs: HTTP Error 404: NOT FOUND | https://dados.gov.pt/pt/api/3/action/package_search?q=gtfs: HTTP Error 404: NOT FOUND"
+  }
+]

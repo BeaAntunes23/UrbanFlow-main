@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-03-14T17:21:31.530Z",
+  "config": {
+    "episodes": 1,
+    "duration": 20,
+    "dt": 0.2,
+    "gridSize": 4,
+    "speed": 1,
+    "seedBase": 20260301
+  },
+  "compute_cost": {
+    "runtime_seconds": 0.014,
+    "episodes": 1,
+    "average_seconds_per_episode": 0.014
+  },
+  "diagnostics": {
+    "q_states": 2,
+    "actions": [
+      8,
+      12,
+      16,
+      20,
+      24,
+      28,
+      32,
+      36,
+      40
+    ],
+    "epsilon": 0.03
+  },
+  "policy": {
+    "version": 1,
+    "actions": [
+      8,
+      12,
+      16,
+      20,
+      24,
+      28,
+      32,
+      36,
+      40
+    ],
+    "qTable": {
+      "ns|0|0|0": [
+        0,
+        -0.054,
+        -0.03,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "ew|0|0|0": [
+        0,
+        -0.03,
+        -0.054,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "epsilon": 0.03,
+    "alpha": 0.2,
+    "gamma": 0.9
+  }
+}

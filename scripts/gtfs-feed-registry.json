@@ -1,0 +1,180 @@
+{
+  "feeds": [
+    {
+      "name": "gtfs_stcp.zip",
+      "district": "porto",
+      "status": "verified",
+      "url": "https://opendata.porto.digital/dataset/5275c986-592c-43f5-8f87-aabbd4e4f3a4/resource/72babf2b-8c56-4041-8141-e57e8efb5ffc/download/gtfs_static_02_03_2026.zip",
+      "note": "STCP Porto - buses",
+      "source": "Porto Open Data CKAN"
+    },
+    {
+      "name": "gtfs_cascais.zip",
+      "district": "setubal",
+      "status": "verified",
+      "url": "https://www.mobicascais.pt/wp-content/uploads/google_transit.zip",
+      "note": "Rede Mobi Cascais - Cascais buses",
+      "source": "Mobi Cascais website"
+    },
+    {
+      "name": "gtfs_smtuc_coimbra.zip",
+      "district": "coimbra",
+      "status": "verified",
+      "url": "https://www.smtuc.pt/upload/Mapa_GTFS.zip",
+      "note": "SMTUC Coimbra - Coimbra city buses",
+      "source": "SMTUC website"
+    },
+    {
+      "name": "gtfs_tub_braga.zip",
+      "district": "braga",
+      "status": "local",
+      "url": "",
+      "note": "TUB Braga - local feed copied from Backend/experiments/results",
+      "source": "Local artifact"
+    },
+    {
+      "name": "gtfs_aveiro.zip",
+      "district": "aveiro",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_beja.zip",
+      "district": "beja",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_braganca.zip",
+      "district": "braganca",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_castelo_branco.zip",
+      "district": "castelo_branco",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_evora.zip",
+      "district": "evora",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_faro.zip",
+      "district": "faro",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_guarda.zip",
+      "district": "guarda",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_leiria.zip",
+      "district": "leiria",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_viana_castelo.zip",
+      "district": "viana_castelo",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_carris_metropolitana.zip",
+      "district": "lisboa",
+      "status": "verified",
+      "url": "https://api.carrismetropolitana.pt/gtfs",
+      "note": "Carris Metropolitana - autocarros Lisboa cidade e área metropolitana (Carris Lisboa integrada em 2022)",
+      "source": "Carris Metropolitana API"
+    },
+    {
+      "name": "gtfs_vila_real.zip",
+      "district": "vila_real",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_viseu.zip",
+      "district": "viseu",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_portalegre.zip",
+      "district": "portalegre",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_santarem.zip",
+      "district": "santarem",
+      "status": "pending",
+      "url": "",
+      "note": "Awaiting official GTFS URL",
+      "source": "Not yet verified"
+    },
+    {
+      "name": "gtfs_agueda_aveiro.zip",
+      "district": "aveiro",
+      "status": "verified",
+      "url": "https://storage.googleapis.com/storage/v1/b/mdb-latest/o/pt-aveiro-camara-municipal-de-agueda-gtfs-1028.zip?alt=media",
+      "note": "CM Águeda - autocarros urbanos Aveiro",
+      "source": "MobilityData catalog"
+    },
+    {
+      "name": "gtfs_mobiave.zip",
+      "district": "braga",
+      "status": "verified",
+      "url": "https://storage.googleapis.com/storage/v1/b/mdb-latest/o/pt-ave-mobiave-gtfs-2836.zip?alt=media",
+      "note": "MobiAVE - Vale do Ave (Famalicão, Vila Nova de Famalicão)",
+      "source": "MobilityData catalog"
+    },
+    {
+      "name": "gtfs_guimabus.zip",
+      "district": "braga",
+      "status": "verified",
+      "url": "https://storage.googleapis.com/storage/v1/b/mdb-latest/o/pt-ave-guimabus-transportes-de-guimaraes-gtfs-2838.zip?alt=media",
+      "note": "GuimaBus - Transportes de Guimarães",
+      "source": "MobilityData catalog"
+    },
+    {
+      "name": "gtfs_tuba_barcelos.zip",
+      "district": "braga",
+      "status": "verified",
+      "url": "https://storage.googleapis.com/storage/v1/b/mdb-latest/o/pt-cavado-tuba-transportes-urbanos-de-barcelos-gtfs-2837.zip?alt=media",
+      "note": "TUBA - Transportes Urbanos de Barcelos",
+      "source": "MobilityData catalog"
+    }
+  ]
+}

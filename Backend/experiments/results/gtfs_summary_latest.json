@@ -1,0 +1,51 @@
+{
+  "ok": true,
+  "date": "2026-03-17",
+  "validation": {
+    "required_files_ok": true,
+    "missing_required_files": [],
+    "has_calendar_or_calendar_dates": true,
+    "warnings": []
+  },
+  "counts": {
+    "stops": 1994,
+    "routes": 80,
+    "trips": 3642,
+    "stop_times": 116774,
+    "active_services": 4,
+    "active_trips": 2065
+  },
+  "route_types": {
+    "3": 80
+  },
+  "departures_by_hour": {
+    "0": 5,
+    "1": 2,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 63,
+    "7": 178,
+    "8": 155,
+    "9": 130,
+    "10": 126,
+    "11": 126,
+    "12": 150,
+    "13": 158,
+    "14": 141,
+    "15": 121,
+    "16": 131,
+    "17": 151,
+    "18": 164,
+    "19": 135,
+    "20": 76,
+    "21": 19,
+    "22": 17,
+    "23": 17
+  },
+  "notes": [
+    "departures_by_hour counts only first stop of each active trip (stop_sequence=1)",
+    "if calendar files are missing, active trips fallback to all trips"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-03-18T21:48:13.631Z",
+  "source": {
+    "type": "gtfs_summary",
+    "path": "C:\\Users\\Lenovo\\OneDrive - UTAD\\LEI\\3º ano\\2º semestre\\Laboratório de Projeto\\Projeto\\Projeto-Final-LEI\\Backend\\experiments\\results\\gtfs_summary_latest.json",
+    "service_date": "2026-03-17"
+  },
+  "sim_seconds_per_hour": 30,
+  "min_flow_factor": 0.45,
+  "max_flow_factor": 2.6,
+  "departures_by_hour": {
+    "0": 5,
+    "1": 2,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 63,
+    "7": 178,
+    "8": 155,
+    "9": 130,
+    "10": 126,
+    "11": 126,
+    "12": 150,
+    "13": 158,
+    "14": 141,
+    "15": 121,
+    "16": 131,
+    "17": 151,
+    "18": 164,
+    "19": 135,
+    "20": 76,
+    "21": 19,
+    "22": 17,
+    "23": 17
+  },
+  "vehicle_mix": {
+    "car": 0.6,
+    "bus": 0.35,
+    "ambulance": 0.05
+  },
+  "notes": [
+    "departures_by_hour vem de stop_times no stop_sequence=1 para serviços ativos",
+    "vehicle_mix é inferido por route_type e normalizado para o simulador UrbanFlow"
+  ]
+}

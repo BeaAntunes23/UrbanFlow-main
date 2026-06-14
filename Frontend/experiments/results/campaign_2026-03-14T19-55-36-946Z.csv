@@ -1,0 +1,15 @@
+campaign_id,pair_id,repetition,timestamp,scenario,mode,seed,repetitions_duration_seconds,dt,speed,grid_size,avg_wait_time,flow_rate,co2_emissions,emergency_response_time,total_collisions,collision_avoided,light_avg_wait_time,heavy_avg_wait_time,light_completed,heavy_completed,vehicles_active,vehicles_completed,simulation_time
+campaign_2026-03-14T19-55-36-946Z,normal_rep_1,1,2026-03-14T19:55:36.902Z,normal,traditional,20260411,20,0.2,1,6,0,0,0,0,0,0,0,0,0,0,8,0,20
+campaign_2026-03-14T19-55-36-946Z,normal_rep_1,1,2026-03-14T19:55:36.908Z,normal,ai,20260411,20,0.2,1,6,0,6,1.53,3.9,0,0,0,0,0,0,6,2,20
+campaign_2026-03-14T19-55-36-946Z,rush_hour_rep_1,1,2026-03-14T19:55:36.915Z,rush_hour,traditional,20360411,20,0.2,1,6,0,0,13.5,0,9,0,0,0,0,0,15,0,20
+campaign_2026-03-14T19-55-36-946Z,rush_hour_rep_1,1,2026-03-14T19:55:36.920Z,rush_hour,ai,20360411,20,0.2,1,6,0,0,15,0,10,0,0,0,0,0,13,0,20
+campaign_2026-03-14T19-55-36-946Z,accident_rep_1,1,2026-03-14T19:55:36.923Z,accident,traditional,20460411,20,0.2,1,6,0,0,3,0,2,0,0,0,0,0,6,0,20
+campaign_2026-03-14T19-55-36-946Z,accident_rep_1,1,2026-03-14T19:55:36.925Z,accident,ai,20460411,20,0.2,1,6,0,0,4.5,0,3,0,0,0,0,0,4,0,20
+campaign_2026-03-14T19-55-36-946Z,emergency_rep_1,1,2026-03-14T19:55:36.926Z,emergency,traditional,20560411,20,0.2,1,6,0,0,1.5,0,1,0,0,0,0,0,8,0,20
+campaign_2026-03-14T19-55-36-946Z,emergency_rep_1,1,2026-03-14T19:55:36.928Z,emergency,ai,20560411,20,0.2,1,6,0,3,0.54,2,0,0,0,0,0,0,9,1,20
+campaign_2026-03-14T19-55-36-946Z,portugal_rep_1,1,2026-03-14T19:55:36.932Z,portugal,traditional,20660411,20,0.2,1,6,0,9,6.48,0.4,4,0,0,0,2,0,2,3,20
+campaign_2026-03-14T19-55-36-946Z,portugal_rep_1,1,2026-03-14T19:55:36.936Z,portugal,ai,20660411,20,0.2,1,6,0,6,6.3,0.4,4,0,0,0,1,0,3,2,20
+campaign_2026-03-14T19-55-36-946Z,portugal_turistico_rep_1,1,2026-03-14T19:55:36.939Z,portugal_turistico,traditional,20760411,20,0.2,1,6,0,30,4.84,0,2,0,0,0,8,2,0,10,20
+campaign_2026-03-14T19-55-36-946Z,portugal_turistico_rep_1,1,2026-03-14T19:55:36.942Z,portugal_turistico,ai,20760411,20,0.2,1,6,0,27,4.66,0,2,0,0,0,7,2,1,9,20
+campaign_2026-03-14T19-55-36-946Z,portugal_interior_rep_1,1,2026-03-14T19:55:36.943Z,portugal_interior,traditional,20860411,20,0.2,1,6,0,6,6.71,1.2,4,0,0,0,0,1,2,2,20
+campaign_2026-03-14T19-55-36-946Z,portugal_interior_rep_1,1,2026-03-14T19:55:36.945Z,portugal_interior,ai,20860411,20,0.2,1,6,0.3,9,7.07,1.2,4,0,1,0,1,1,1,3,20

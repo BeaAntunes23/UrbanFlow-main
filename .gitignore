@@ -1,0 +1,56 @@
+# Dependencies
+**/node_modules/
+
+# Build outputs
+Frontend/build/
+**/dist/
+**/.next/
+**/.cache/
+
+# Logs
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.ipynb_checkpoints/
+.venv/
+venv/
+
+# Coverage
+**/.coverage
+**/.coverage.*
+**/htmlcov/
+**/coverage/
+
+# Environment files
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+**/.env.*
+!**/.env.example
+
+# IDE / OS
+.vscode/
+.idea/
+**/*.swp
+**/*.swo
+.DS_Store
+Thumbs.db
+
+# Dados GTFS brutos (não versionar)
+Backend/experiments/results/feeds/
+**/*.gtfs.zip
+
+# Ambiente virtual alternativo
+.venv-1/

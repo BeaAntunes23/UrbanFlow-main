@@ -1,0 +1,24 @@
+﻿{
+    "generated_at":  "2026-03-14T16:48:24.8143250+00:00",
+    "artifacts":  [
+                      "Frontend/experiments/results/latest.csv",
+                      "Frontend/experiments/results/latest.json",
+                      "Frontend/experiments/results/rl_evaluation_latest.csv",
+                      "Frontend/experiments/results/rl_evaluation_summary_latest.json",
+                      "Frontend/experiments/results/ablation_summary_latest.json",
+                      "Frontend/experiments/results/sensitivity_summary_latest.json",
+                      "Backend/experiments/results/summary_by_mode.csv",
+                      "Backend/experiments/results/comparison_ai_vs_traditional.csv",
+                      "Backend/experiments/results/analise_experimental.md",
+                      "Backend/experiments/results/capitulo_resultados.md"
+                  ],
+    "git_commit":  "9d7ef3f",
+    "commands":  [
+                     "npm run experiment:run",
+                     "npm run rl:train",
+                     "npm run rl:evaluate",
+                     "npm run experiment:ablation",
+                     "npm run experiment:sensitivity",
+                     "python experiments/run_full_pipeline.py --sync-frontend-figures"
+                 ]
+}

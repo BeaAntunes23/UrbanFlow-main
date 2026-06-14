@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: trafficai-api
+    env: python
+    plan: free
+    buildCommand: pip install -r Backend/requirements.txt
+    startCommand: cd Backend && uvicorn server:app --host 0.0.0.0 --port $PORT
+    
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11"
+      - key: PYTHONUNBUFFERED
+        value: "1"
+    
+    # Auto-deploy em cada push
+    autoDeploy: true
+    
+    # Health check
+    healthCheckPath: /api/health
+    healthCheckInterval: 30
+    healthCheckTimeout: 10
